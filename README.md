@@ -2,13 +2,6 @@
   <img src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/logo.gif" alt="Logo" style="width: 800px; max-width: 100%; height: auto;">
 </p>
 
-<style>
-  .gradient-line {
-    height: 1px;
-    border: 0;
-    background: linear-gradient(to right, #ff0000, #00ff00, #0000ff); /* Example gradient */
-  }
-</style>
 
 <hr class="gradient-line">
 
@@ -27,14 +20,14 @@
   </a>
 </p>
 
-<hr class="gradient-line">
+<hr style="border: 1px solid #ff00ff;">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simrankkamboj&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="simrankkamboj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simrankkamboj&show_icons=true&locale=en&theme=vision-friendly-dark" alt="simrankkamboj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simrankkamboj&&theme=vision-friendly-dark" alt="simranlkamboj" /></p>
-<hr class="gradient-line">
+<hr style="border: 1px solid #ff00ff;">
 <!--
 **SimranKKamboj/SimranKKamboj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
