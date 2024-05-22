@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/media/logo.gif" alt="Logo">
+  <img src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/media/logo.mov" alt="Logo">
 </p>
 
 <a href="https://www.linkedin.com/in/simran-kaur-kamboj/">
