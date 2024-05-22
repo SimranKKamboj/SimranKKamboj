@@ -1,6 +1,9 @@
-<p align="center">
+[![MasterHead](https://github.com/SimranKKamboj/SimranKKamboj/blob/main/logo.gif)
+
+<!--<p align="center">
   <img src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/logo.gif" alt="Logo" style="width: 800px; max-width: 100%; height: auto;">
 </p>
+-->
 
 ## Hi there 👋! I am Simran Kamboj
 
