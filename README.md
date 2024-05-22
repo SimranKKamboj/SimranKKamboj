@@ -1,3 +1,5 @@
+![](https://github.com/SimranKKamboj/SimranKKamboj/blob/main/logo.gif)
+
 ## Hi there 👋
 
 <!--
