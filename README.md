@@ -1,6 +1,6 @@
-
-![](https://github.com/SimranKKamboj/SimranKKamboj/blob/main/logo.gif)
-
+<p align="center">
+  <img src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/logo.gif" alt="Logo">
+</p>
 
 
 ## Hi there 👋
