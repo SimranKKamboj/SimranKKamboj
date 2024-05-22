@@ -6,7 +6,7 @@
 <hr style="border-top: 2px solid #DB7093;">
 
 
-<h1 align="center">Hi there, I am Simran Kamboj👋!</h1>
+<h1 align="center">Hi there, I am Simran Kaur Kamboj👋!</h1>
 <h3 align="center">A graduate research student at the University of British Columbia, Vancouver.</h3>
 
 <p align="center">
