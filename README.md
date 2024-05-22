@@ -4,7 +4,7 @@
 
 <p align="center">
   <video width="100%" max-width="100vw" height="auto" controls>
-    <source src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/logo.mp4" type="video/mp4">
+   <source src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/logo.mov" type="video/quicktime">
   </video>
 </p>
 
