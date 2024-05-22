@@ -3,7 +3,7 @@
 </p>
 
 
-<div style="height: 2px; background-color: #ff00ff;"></div>
+<hr style="border-top: 2px solid #ff00ff;">
 
 
 <h1 align="center">Hi there 👋! I am Simran Kamboj</h1>
