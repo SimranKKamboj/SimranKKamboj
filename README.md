@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/SimranKKamboj/SimranKKamboj/blob/main/logo.gif]" alt="animated" />
+![](https://github.com/SimranKKamboj/SimranKKamboj/blob/main/logo.gif)
 </p>
 
 
