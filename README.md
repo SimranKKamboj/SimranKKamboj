@@ -2,6 +2,11 @@
   <img src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/logo.gif" alt="Logo">
 </p>
 
+<p align="center">
+  <video width="100%" max-width="100vw" height="auto" controls>
+    <source src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/logo.mp4" type="video/mp4">
+  </video>
+</p>
 
 ## Hi there 👋
 
