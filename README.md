@@ -18,7 +18,8 @@
   </a>
 </p>
 
-<img width="100%" src="https://i.imgur.com/dBaSKWF.gif"/>
+<img width="100%" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/line.png"/>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simrankkamboj&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="simrankkamboj" /></p>
 
@@ -27,9 +28,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simrankkamboj&&theme=vision-friendly-dark" alt="simranlkamboj" /></p>
 
   
-<img src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/astronaut.gif"/>
-
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
+<img width="100%" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/line.png"/>
 <!--
 **SimranKKamboj/SimranKKamboj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
