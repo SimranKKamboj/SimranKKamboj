@@ -15,7 +15,7 @@
     <img width="55" height="55" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/email_logo.png" alt="Email Logo"/>
   </a>
   <a href="https://github.com/SimranKKamboj" style="display: inline-block;">
-    <img width="55" height="55" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/githubt_logo.png" alt="Github Logo"/>
+    <img width="60" height="60" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/githubt_logo.png" alt="Github Logo"/>
   </a>
 </p>
 
