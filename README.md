@@ -18,9 +18,6 @@
   </a>
 </p>
 
-<p align="center" style="margin-top: -3000px; margin-bottom: -3000px;">
-<img width="100%" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/line.png"/>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simrankkamboj&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="simrankkamboj" /></p>
 
