@@ -15,6 +15,9 @@
   <a href="mailto:simran@phas.ubc.ca" style="display: inline-block;">
     <img width="55" height="55" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/email_logo.png" alt="Email Logo"/>
   </a>
+  <a href="https://github.com/SimranKKamboj" style="display: inline-block;">
+    <img width="55" height="55" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/github_logo.png" alt="Github Logo"/>
+  </a>
 </p>
 
 
