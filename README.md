@@ -6,9 +6,11 @@
 
 A graduate research student at the University of British Columbia, Vancouver.
 
-
 <a href="https://www.linkedin.com/in/simran-kaur-kamboj/">
   <img height="50" src="media/linkedin_logo.png"/>
+
+  href="mailto:simran@phas.ubc.ca">
+  <img height="50" src="media/email-logo.png"/>
 </a>
 <!--
 **SimranKKamboj/SimranKKamboj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
