@@ -1,7 +1,5 @@
 <p align="center">
-  <video width="100%" style="max-width: 100vw; height: auto;" controls>
-    <source src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/media/logo.mov" type="video/quicktime">
-  </video>
+  <img src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/media/logo.gif" alt="Logo" style="width: 100%; max-width: 100vw; height: auto;">
 </p>
 
 ## Hi there 👋! I am Simran Kamboj
