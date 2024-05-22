@@ -3,7 +3,7 @@
 </p>
 
 
-<hr class="gradient-line">
+<hr style="border: 1px solid #ff00ff;">
 
 <h1 align="center">Hi there 👋! I am Simran Kamboj</h1>
 <h3 align="center">A graduate research student at the University of British Columbia, Vancouver.</h3>
