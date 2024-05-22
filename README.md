@@ -31,7 +31,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simrankkamboj&&theme=vision-friendly-dark" alt="simranlkamboj" /></p>
 <hr style="border-top: 2px solid 	#DB7093;">
 
-<p style='color:red'>This is some red text.</p>
 <!--
 **SimranKKamboj/SimranKKamboj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
