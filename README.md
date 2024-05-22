@@ -1,11 +1,9 @@
-[![MasterHead](https://github.com/SimranKKamboj/SimranKKamboj/blob/main/logo.gif)
-
-<!--<p align="center">
+<p align="center">
   <img src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/logo.gif" alt="Logo" style="width: 800px; max-width: 100%; height: auto;">
 </p>
--->
 
-## Hi there 👋! I am Simran Kamboj
+
+<h1 align="center">Hi there 👋! I am Simran Kamboj</h1>
 
 A graduate research student at the University of British Columbia, Vancouver.
 
