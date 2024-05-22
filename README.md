@@ -25,8 +25,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simrankkamboj&show_icons=true&locale=en&theme=vision-friendly-dark" alt="simrankkamboj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simrankkamboj&&theme=vision-friendly-dark" alt="simranlkamboj" /></p>
+
   
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif](https://github.com/SimranKKamboj/SimranKKamboj/blob/main/astronaut.gif"/>
+<img width="100%" height="50" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/astronaut.gif"/>
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 <!--
