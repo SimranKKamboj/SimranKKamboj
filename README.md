@@ -8,13 +8,13 @@ A graduate research student at the University of British Columbia, Vancouver.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simran-kaur-kamboj/">
-    <img height="50" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/media/linkedin_logo.png" alt="LinkedIn Logo"/>
+    <img height="50" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/linkedin_logo.png" alt="LinkedIn Logo"/>
   </a>
 </p>
 
 <p align="center">
   <a href="mailto:simran@phas.ubc.ca">
-    <img height="50" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/media/email-logo.png" alt="Email Logo"/>
+    <img height="50" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/email_logo.png" alt="Email Logo"/>
   </a>
 </p>
 
