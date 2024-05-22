@@ -1,6 +1,7 @@
-
 <p align="center">
-  <img src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/media/logo.mov" alt="Logo">
+  <video width="100%" style="max-width: 100vw; height: auto;" controls>
+    <source src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/media/logo.mov" type="video/quicktime">
+  </video>
 </p>
 
 <a href="https://www.linkedin.com/in/simran-kaur-kamboj/">
