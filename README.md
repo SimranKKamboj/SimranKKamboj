@@ -31,14 +31,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simrankkamboj&&theme=vision-friendly-dark" alt="simranlkamboj" /></p>
 <hr style="border-top: 2px solid 	#DB7093;">
 
-<img align="center" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/space.gif" alt="space" style="width: 100px; height: auto;">
+
+
+
 
 ## A little about me:
 
+<p align="center">
+  src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/space.gif" alt="space" style="width: 100px; max-width: 100%; height: auto;">
+</p>
 I am a full-time research assistant and graduate student working on the photometry of TransNeptunian Objects using the Canada-France-Hawaii Telescope. On my GitHub, you can find the codes that I wrote and use on a daily basis to do photometry and data analysis. You can also find codes from the numerical techniques course I have taken and other informational stuff.
 
-  <img align="center" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/cup.gif" alt="teacup" style="width: 100px; height: auto;">
-
+<p align="center">
+  src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/cup.gif" alt="cup" style="width: 100px; max-width: 100%; height: auto;">
+</p>
 When I am not working, I like to spend time with my shiba inu pup, cooking or doing digital and traditional art.
 <!--
 **SimranKKamboj/SimranKKamboj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
