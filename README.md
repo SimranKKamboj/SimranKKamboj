@@ -12,7 +12,7 @@ A graduate research student at the University of British Columbia, Vancouver.
     <img width="50" height="50" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/linkedin_logo.png" alt="LinkedIn Logo"/>
   </a>
   <a href="mailto:simran@phas.ubc.ca" style="display: inline-block;">
-    <img width="60" height="60" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/email_logo.png" alt="Email Logo"/>
+    <img width="60" height="70" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/email_logo.png" alt="Email Logo"/>
   </a>
 </p>
 
