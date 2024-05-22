@@ -3,7 +3,9 @@
 </p>
 
 
-## Hi there 👋
+## Hi there 👋! I am Simran Kamboj
+
+A graduate research student at the University of British Columbia, Vancouver.
 
 <!--
 **SimranKKamboj/SimranKKamboj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
