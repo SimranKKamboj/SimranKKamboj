@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<p align="center" style="margin-top: -300px; margin-bottom: -300px;">
+<p align="center" style="margin-top: -3000px; margin-bottom: -3000px;">
 <img width="100%" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/line.png"/>
 </p>
 
