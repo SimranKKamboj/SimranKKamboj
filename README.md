@@ -6,14 +6,18 @@
 
 A graduate research student at the University of British Columbia, Vancouver.
 
-<a href="https://www.linkedin.com/in/simran-kaur-kamboj/">
-  <img height="50" src="media/linkedin_logo.png"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/simran-kaur-kamboj/">
+    <img height="50" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/media/linkedin_logo.png" alt="LinkedIn Logo"/>
+  </a>
+</p>
 
-<a
-  href="mailto:simran@phas.ubc.ca">
-  <img height="50" src="media/email-logo.png"/>
-</a>
+<p align="center">
+  <a href="mailto:simran@phas.ubc.ca">
+    <img height="50" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/media/email-logo.png" alt="Email Logo"/>
+  </a>
+</p>
+
 <!--
 **SimranKKamboj/SimranKKamboj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
