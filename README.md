@@ -8,7 +8,8 @@ A graduate research student at the University of British Columbia, Vancouver.
 
 <a href="https://www.linkedin.com/in/simran-kaur-kamboj/">
   <img height="50" src="media/linkedin_logo.png"/>
-
+</a>
+<a
   href="mailto:simran@phas.ubc.ca">
   <img height="50" src="media/email-logo.png"/>
 </a>
