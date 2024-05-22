@@ -38,12 +38,13 @@
 ## A little about me:
 
 <p align="center">
-  src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/space.gif" alt="space" style="width: 100px; max-width: 100%; height: auto;">
+  <img src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/space.gif" alt="space" style="width: 100px; max-width: 100%; height: auto;">
 </p>
+
 I am a full-time research assistant and graduate student working on the photometry of TransNeptunian Objects using the Canada-France-Hawaii Telescope. On my GitHub, you can find the codes that I wrote and use on a daily basis to do photometry and data analysis. You can also find codes from the numerical techniques course I have taken and other informational stuff.
 
 <p align="center">
-  src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/cup.gif" alt="cup" style="width: 100px; max-width: 100%; height: auto;">
+ <img  src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/cup.gif" alt="cup" style="width: 100px; max-width: 100%; height: auto;">
 </p>
 When I am not working, I like to spend time with my shiba inu pup, cooking or doing digital and traditional art.
 <!--
