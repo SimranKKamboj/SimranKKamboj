@@ -18,6 +18,8 @@
   </a>
 </p>
 
+<!-- Added line -->
+<hr style="border: 1px solid #ccc;">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simrankkamboj&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="simrankkamboj" /></p>
 
@@ -25,8 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simrankkamboj&&theme=vision-friendly-dark" alt="simranlkamboj" /></p>
 
-  
-<img width="100%" src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/line.png"/>
 <!--
 **SimranKKamboj/SimranKKamboj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
