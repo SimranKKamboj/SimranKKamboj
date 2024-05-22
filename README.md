@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<div style="height: 2px; background-color: #ff00ff;"></div>
+<hr style="border-top: 2px solid #ff00ff;">
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simrankkamboj&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="simrankkamboj" /></p>
@@ -29,7 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simrankkamboj&show_icons=true&locale=en&theme=vision-friendly-dark" alt="simrankkamboj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simrankkamboj&&theme=vision-friendly-dark" alt="simranlkamboj" /></p>
-<div style="height: 2px; background-color: #ff00ff;"></div>
+<hr style="border-top: 2px solid #ff00ff;">
 
 <!--
 **SimranKKamboj/SimranKKamboj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
