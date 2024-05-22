@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/logo.gif" alt="Logo" style="width: 100%; max-width: 800px; height: auto;">
+  <img src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/logo.gif" alt="Logo" style="width: 200%; max-width: 800px; height: auto;">
 </p>
 
 ## Hi there 👋! I am Simran Kamboj
