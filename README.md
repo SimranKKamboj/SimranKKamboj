@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi there 👋! I am Simran Kamboj</h1>
 
-A graduate research student at the University of British Columbia, Vancouver.
+<h3 align="center">A graduate research student at the University of British Columbia, Vancouver.</h3>
 
 
 <p align="center">
