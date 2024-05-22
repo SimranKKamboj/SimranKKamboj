@@ -32,8 +32,8 @@
 <hr style="border-top: 2px solid 	#DB7093;">
 
 - 🔭  I am a full-time research assistant and graduate student working on the photometry of TransNeptunian Objects using the Canada-France-Hawaii Telescope. On my GitHub, you can find the codes that I wrote and use on a daily basis to do photometry and data analysis. You can also find codes from the numerical techniques course I have taken and other informational stuff.
-- 
-- 🌱 When I am not working, I like to spend time with my shiba inu pup, cooking or doing digital and traditional art.<img src="[path_to_your_image](https://github.com/SimranKKamboj/SimranKKamboj/blob/main/cup.gif)" alt="teacup" style="width: 20px; height: auto;">
+  
+- 🌱 When I am not working, I like to spend time with my shiba inu pup, cooking or doing digital and traditional art.<img src="https://github.com/SimranKKamboj/SimranKKamboj/blob/main/cup.gif" alt="teacup" style="width: 20px; height: auto;">
 
 <!--
 **SimranKKamboj/SimranKKamboj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
