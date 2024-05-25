@@ -8,6 +8,7 @@
 
 <h1 align="center">Hi there, I am Simran Kaur Kamboj👋!</h1>
 <h3 align="center">A graduate research student at the University of British Columbia, Vancouver.</h3>
+<h4 align="center">Find out more at: https://simrankkamboj.github.io/</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simran-kaur-kamboj/" style="display: inline-block; margin-right: 10px; vertical-align: middle;">
